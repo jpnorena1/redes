@@ -1,3 +1,5 @@
+import React from 'react'; // Agrega esta línead
+
 export const AboutMe = ({ label, description }) => (
   <section className="profile section" id="profile">
     <h2 className="section-title">{label}</h2>

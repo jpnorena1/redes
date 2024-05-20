@@ -1,3 +1,5 @@
+
+import React from 'react'; // Agrega esta línea
 export const Skills = ({
   technicalLabel,
   softLabel,

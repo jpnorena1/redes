@@ -1,3 +1,4 @@
+import React from 'react'; // Agrega esta línea
 import { Description } from "./Description";
 
 export const Proyects = ({ proyects }) => {

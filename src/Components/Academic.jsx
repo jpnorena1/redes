@@ -1,3 +1,4 @@
+import React from 'react'; // Agrega esta línea
 export const Academic = ({ academic }) => {
   return (
     <section className="academic-experience section" id="education">
